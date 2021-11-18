@@ -20,7 +20,7 @@ The best features for the analysis are selected and those that are not helpful d
 Categorical variables translated to intergers for easy data analysis.
 
 ## Train-Test Split of unbalanced Dataset
-Unbalanced dataset is used to run the train and test for the various classifiers.
+Unbalanced dataset is used to run the train and test for the various classifiers. Report results of the classifiers generated. 
 
 ## Train-Test Split of Balanced Dataset
-Dataset is balanced and is used to run the train and test for the various classifiers.
+Dataset is balanced and is used to run the train and test for the various classifiers. Report results of the classifiers generated.
