@@ -23,4 +23,4 @@ Categorical variables translated to intergers for easy data analysis.
 Unbalanced dataset is used to run the train and test for the various classifiers. Report results of the classifiers generated. 
 
 ## Train-Test Split of Balanced Dataset
-Dataset is balanced and is used to run the train and test for the various classifiers. Report results of the classifiers generated.
+Balanced dataset is used to run the train and test for the various classifiers. Report results of the classifiers generated.
